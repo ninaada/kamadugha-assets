@@ -1,5 +1,5 @@
-{
-    "breeds":[{
+[
+    {
         "Id": 1,
         "Breed": "hariana",
         "Name": "Hariana",        
@@ -527,4 +527,3 @@
         ]
     }
 ]
-}
